@@ -20,6 +20,7 @@ Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic 
 
 
 PROCEDURE:
+
 a.   KVL:
 1.   Connect as per the circuit diagram.
 2.   Check if the RPS voltage is set to zero voltage.
@@ -37,38 +38,57 @@ b.  KCL:
 4.   Switch on the RPS.
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
-7.   Take readings for different values of input voltage and tabulate them. 
-CIRCUIT DIAGRAM:
+7.   Take readings for different values of input voltage and tabulate them.
+   
+CIRCUIT DIAGRAM (OFF):
 
-CIRCUIT DIAGRAM:
+
+a.   KVL:
+
+<img width="930" height="626" alt="Screenshot 2026-10-02 135845" src="https://github.com/user-attachments/assets/14adb703-2faa-479a-8883-d47cbb092fe5" />
+
+
+b.  KCL:
+
+<img width="1115" height="691" alt="Screenshot 2026-10-02 135719" src="https://github.com/user-attachments/assets/3ed14995-fc47-456c-a3e9-118801384a34" />
+
+
+CIRCUIT DIAGRAM (ON):
 
 
 a.   KVL:
  
+<img width="900" height="580" alt="Screenshot 2026-10-02 135900" src="https://github.com/user-attachments/assets/b82b0a4b-44be-463e-977c-c8b8c17a7772" />
 
 
 b.  KCL:
+
+<img width="1050" height="702" alt="Screenshot 2026-10-02 135740" src="https://github.com/user-attachments/assets/2c61c1fb-9840-4069-81fc-6c79c3b83614" />
+
  
 
 Calculation:
 
 a.   KVL:
- 
+
+ <img width="542" height="270" alt="Screenshot 2026-10-07 150248" src="https://github.com/user-attachments/assets/e0920d29-f1a2-4916-bf87-b04876b1ad40" />
 
 
 b.  KCL:
 
-
+<img width="892" height="357" alt="Screenshot 2026-10-07 150615" src="https://github.com/user-attachments/assets/0188e995-ba00-4aa2-892d-dde27cc025b6" />
 
 
 Tabulation:
 
 a.   KVL:
  
+<img width="755" height="288" alt="Screenshot 2026-10-07 150254" src="https://github.com/user-attachments/assets/2d650d12-00a6-4a89-a264-ee003fd1f640" />
 
 
 b.  KCL:
 
+<img width="797" height="222" alt="Screenshot 2026-10-07 150626" src="https://github.com/user-attachments/assets/e0ce0223-0de8-486a-8d6e-0efa44715876" />
 
 
 RESULT:
